@@ -1,0 +1,5 @@
+{
+  "name": " POS - Apotik Cashier System",
+  "description": "A comprehensive pharmacy management system with role-based access, inventory tracking, and sales transactions including PDF receipt generation.",
+  "requestFramePermissions": []
+}
